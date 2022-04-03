@@ -1,0 +1,13 @@
+.offcanvas-start {
+  width: 22%;
+}
+.search_box {
+  position: relative;
+}
+.search_icon {
+  position: absolute;
+  top: 24%;
+  right: 13px;
+  z-index: 10;
+  cursor: pointer;
+}

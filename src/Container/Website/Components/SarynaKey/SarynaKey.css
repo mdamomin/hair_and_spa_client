@@ -1,0 +1,18 @@
+.sarynaKey_top {
+  height: 50vh;
+  color: rgb(252, 247, 247);
+}
+.sarynaKey {
+  background-image: url('https://i.ibb.co/270xbyK/1.png');
+  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.gradient-custom {
+  background: linear-gradient(
+    to right,
+    rgba(129, 131, 129, 0.5),
+    rgba(28, 29, 29, 0.5)
+  );
+}

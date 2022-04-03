@@ -1,0 +1,7 @@
+.navbar-brand {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.dropdown-menu {
+  box-shadow: 5px !important;
+}
